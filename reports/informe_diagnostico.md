@@ -1,7 +1,7 @@
 # Informe técnico: diagnóstico inicial de calidad de datos
 
 **Proyecto:** Distribución de la propiedad horizontal en las comunas de Medellín
-**Evidencia:** GA1-220501094-01-AA1-EV06 – Diagnosticar la calidad de datos: preparación, exploración y documentación
+**Evidencia:** GA1-220501094-01-AA1-EV05 – Diagnosticar la calidad de datos: preparación, exploración y documentación
 **Aprendiz:** Maicol Esneider Posada Callejas · Ficha 3223873 · Tecnólogo en Análisis y Desarrollo de Software (SENA)
 **Instructor:** Carlos Navia · **Fecha:** noviembre de 2026
 
