@@ -1,7 +1,7 @@
 # Distribución de la propiedad horizontal en las comunas de Medellín
 
 Proyecto individual de ciencia de datos del programa Tecnólogo en Análisis y Desarrollo de Software (SENA), ficha 3223873.
-Esta versión contiene el **diagnóstico inicial de calidad de datos** (evidencia GA1-220501094-01-AA1-EV06).
+Esta versión contiene el **diagnóstico inicial de calidad de datos** (evidencia GA1-220501094-01-AA1-EV05).
 
 **Autor:** Maicol Esneider Posada Callejas · **Instructor:** Carlos Navia
 
