@@ -1,0 +1,20 @@
+tabla,paso,filas,columnas,nulos,duplicados,memoria_mb
+predios,0 original,1041413,15,5800,0,156.9
+predios,1 sin duplicados,1041413,15,5800,0,156.9
+predios,2 nombres y tipos,1041413,15,5800,0,132.5
+predios,3 rellenos a nulo,1041413,14,986846,0,116.7
+predios,4 texto estandarizado,1041413,15,986846,0,132.3
+lotes,0 original,308129,8,0,0,22.8
+lotes,1 sin duplicados,308129,8,0,0,22.8
+lotes,2 nombres y tipos,308129,8,0,0,24.9
+lotes,3 inconsistencias marcadas,308129,9,80,0,25.2
+lotes,4 texto estandarizado,308129,9,80,0,25.3
+propiedades_kaggle,0 original,9999,12,6028,100,1.4
+propiedades_kaggle,1 sin duplicados,9899,12,5965,0,1.4
+propiedades_kaggle,2 coordenadas,9899,12,6277,0,1.2
+propiedades_kaggle,3 valores y texto,9899,14,6306,16,0.9
+propiedades_kaggle,4 duplicados que aparecieron al limpiar,9883,14,6298,0,0.9
+inmuebles_kaggle,0 original,430,14,2365,0,0.1
+inmuebles_kaggle,1 sin índice ni filas vacías,309,13,913,98,0.0
+inmuebles_kaggle,2 montos y áreas a número,309,14,1156,98,0.0
+inmuebles_kaggle,3 sin duplicados,211,14,599,0,0.0

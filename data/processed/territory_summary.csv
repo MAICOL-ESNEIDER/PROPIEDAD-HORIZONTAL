@@ -1,0 +1,22 @@
+cod_comuna,comuna,viviendas,viviendas_ph,pct_ph_en_comuna,tipo
+1,Popular,24704,9635,39.0,comuna
+2,Santa Cruz,20087,11389,56.7,comuna
+3,Manrique,33103,17776,53.7,comuna
+4,Aranjuez,31370,21867,69.7,comuna
+5,Castilla,29261,23325,79.7,comuna
+6,Doce De Octubre,35919,24628,68.6,comuna
+7,Robledo,50457,39003,77.3,comuna
+8,Villa Hermosa,33746,17648,52.3,comuna
+9,Buenos Aires,43174,33565,77.7,comuna
+10,La Candelaria,28425,25103,88.3,comuna
+11,Laureles,41369,37389,90.4,comuna
+12,La América,33292,29418,88.4,comuna
+13,San Javier,38159,25753,67.5,comuna
+14,El Poblado,49835,48402,97.1,comuna
+15,Guayabal,16983,12257,72.2,comuna
+16,Belen,65730,55701,84.7,comuna
+50,Palmitas,1118,322,28.8,corregimiento
+60,San Cristobal,29014,23674,81.6,corregimiento
+70,Altavista,9752,6827,70.0,corregimiento
+80,San Antonio De Prado,24889,18980,76.3,corregimiento
+90,Santa Elena,5525,2251,40.7,corregimiento

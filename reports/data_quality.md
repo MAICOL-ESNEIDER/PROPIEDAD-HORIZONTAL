@@ -5,7 +5,7 @@
 **Aprendiz:** Maicol Esneider Posada Callejas · Ficha 3223873 · Tecnólogo en Análisis y Desarrollo de Software (SENA)
 **Instructor:** Carlos Navia · **Fecha:** noviembre de 2026
 
-Todos los resultados de este informe salen del notebook [`notebooks/diagnostico_calidad.ipynb`](../notebooks/diagnostico_calidad.ipynb).
+Todos los resultados de este informe salen del notebook [`notebooks/data_quality.ipynb`](../notebooks/data_quality.ipynb).
 
 ---
 
